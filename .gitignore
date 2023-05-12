@@ -1,0 +1,11 @@
+# ignore this folder
+ignoreFolder/
+
+# ignore all pdf files
+*.pdf
+
+# ignore X0.txt
+X0.txt
+
+
+
